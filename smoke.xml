@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RenasTech Suite">
+    <test name="Smoke Test">
+    <classes>
+        <class name="RenasTech.day9JavaScript.C1PropertiesPractice"></class>
+        <class name="RenasTech.day9JavaScript.C2SmartBearPractice"></class>
+        <class name="RenasTech.day9JavaScript.C3JavaScriptExamples"></class>
+    </classes>
+
+    </test>
+</suite>

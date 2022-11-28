@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="day6 Suite">
+    <test name="Functinal Test">
+        <classes>
+            <class name="RenasTech.day6.C1SmartBearLogin"></class>
+            <class name="RenasTech.day6.C2JavaFaker"></class>
+            <class name="RenasTech.day6.C3SmartBearTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RenasTech Test">
+    <test name="Regression Test">
+    <classes>
+        <class name="RenasTech.day10_Actions.C1AlertPractice"></class>
+        <class name="RenasTech.day10_Actions.C2Dropdown"></class>
+        <class name="RenasTech.day10_Actions.C3ActionsExample"></class>
+    </classes>
+</test>
+</suite>
